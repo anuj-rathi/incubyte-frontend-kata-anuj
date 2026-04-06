@@ -6,7 +6,7 @@ globalThis.fetch = vi.fn(() =>
     json: () =>
       Promise.resolve({
         id: 1,
-        name: "blbasaur",
+        name: "bulbasaur",
         abilities: [],
         base_experience: 64,
         types: [],
