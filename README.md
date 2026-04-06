@@ -95,7 +95,7 @@ npm run test
 
 ```bash
 # Clone repo
-git clone https://github.com/anuj-rathi/incubyte-frontend-kata
+git clone https://github.com/anuj-rathi/incubyte-frontend-kata-anuj.git
 
 # Install dependencies
 npm install
