@@ -1,10 +1,6 @@
 <img width="1702" height="925" alt="Screenshot 2026-04-06 at 2 28 07 PM" src="https://github.com/user-attachments/assets/a86e3533-a3cb-43be-96d2-189d44224498" /># 🧩 Incubyte Frontend Kata – Pokemon App
 
-## 🚀 Live Demo
 
-👉 https://your-live-link.com
-
----
 
 ## 📸 Screenshots
 
@@ -138,7 +134,6 @@ AI tools (ChatGPT) were used to:
 * Scaffold initial project structure
 * Generate test cases
 * Debug environment issues (Vitest, jsdom)
-* Improve Tailwind UI
 * Draft documentation
 
 ### 🧠 Approach:
